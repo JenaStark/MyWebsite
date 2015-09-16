@@ -52,22 +52,21 @@ background:mediumaquamarine;
 color:mediumaquamarine;
 }
 
-#FaceBook a:hover{
+#FaceBook i{
 color:#3B5998;
 }
 
-#LinkedIn a:hover{
+#LinkedIn i{
 color:#007bb5;
 }
 
-#GitHub a:hover{
+#GitHub i{
 color:#000000;
 }
 
-#Twitter a:hover{
+#Twitter i{
 color:#00aced;
 }
-
 
 .reply {
 background:mediumaquamarine;

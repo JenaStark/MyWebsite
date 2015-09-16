@@ -29,6 +29,7 @@ Version:	1.0
 		          1. GLOBAL STYLES
 --------------------------------------------------------------- */
 
+@import url('colors/violet-black.css');
 body, html {
 	height: 100%;
 	width: 100%;
@@ -56,7 +57,7 @@ p {
 }
 
 a:hover {
-	color: #ffd42d;
+	color:mediumaquamarine;
 }
 
 .no-padding {
@@ -154,7 +155,7 @@ a:hover {
 	width: 0%;
 	height: 100%;
 	right: 0px;
-	background: #ffd42d;
+	background:mediumaquamarine;
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
 	-o-transition: all .3s ease-in-out;
@@ -178,14 +179,14 @@ a:hover {
 .sep1 {
 	height: 3px;
 	width: 70px;
-	background: #ffd42d;
+	background:mediumaquamarine;
 	margin: 20px 0;
 }
 
 .sep2 {
 	height: 6px;
 	width: 50px;
-	background: #ffd42d;
+	background:mediumaquamarine;
 	margin: 20px 0;
 }
 
@@ -216,7 +217,7 @@ a:hover {
 }
 
 .np-controls a:hover i {
-	color: #ffd42d;
+	color: mediumaquamarine;
 }
 
 .np-main {
@@ -346,12 +347,12 @@ a:hover {
 }
 
 #filter-list li:hover {
-	background: #ffd42d;
+	background:mediumaquamarine;
 	color: #2c383c;
 }
 
 #filter-list li.active {
-	background: #ffd42d;
+	background:mediumaquamarine;
 	color: #2c383c;
 }
 
@@ -531,7 +532,7 @@ a:hover {
 }
 
 .skills-bg span {
-	background: #ffd42d;
+	background:mediumaquamarine;
 	height: 20px;
 	display: table;
 	position: absolute;
@@ -629,7 +630,7 @@ a:hover {
 }
 
 .services-info ul li:hover {
-	background: #ffd42d;
+	background:mediumaquamarine;
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
 	-o-transition: all .3s ease-in-out;
@@ -694,7 +695,7 @@ article p {
 .link-post {
 	padding-bottom: 0px;
 	border: none;
-	background: #ffd42d;
+	background:mediumaquamarine;
 	padding: 60px 20px;
 	margin-bottom: 35px;
 }
@@ -733,7 +734,7 @@ article p {
 .quote-post blockquote {
 	border: none;
 	padding: 0px;
-	color: #ffd42d;
+	color:mediumaquamarine;
 	font-size: 27px;
 	font-family: Neuton;
 	font-weight: 200;
@@ -875,7 +876,7 @@ article p {
 .contact-form button {
 	width: 120px;
 	height: 43px;
-	background: #ffd42d;
+	background:mediumaquamarine;
 	border-radius: 4px;
 	font-size: 13px;
 	color: #4e503b;
@@ -885,7 +886,7 @@ article p {
 
 .contact-form button:hover {
 	background: #222;
-	color: #ffd42d;
+	color:mediumaquamarine;
 }
 
 .statusMessage,.successmessage,.errormessage {
@@ -972,7 +973,7 @@ footer p {
 }
 
 .social li a:hover {
-	color: #ffd42d;
+	color:mediumaquamarine;
 }
 
 /*-------------------------------------------- 
@@ -1041,12 +1042,12 @@ footer p {
 	font-size: 11px;
 	line-height: 20px;
 	text-align: center;
-	background: #ffd42d;
+	background:mediumaquamarine;
 	display: table;
 }
 
 .reply:hover {
-	color: #ffd42d;
+	color:mediumaquamarine;
 	background: #222;
 }
 

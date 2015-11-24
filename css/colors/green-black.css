@@ -80,6 +80,22 @@ color:mediumaquamarine;
 background:mediumaquamarine;
 }
 
+#link a {
+    color:mediumaquamarine;
+}
+
+#link a:hover {
+    color:steelblue;
+}
+
+#PDFView a {
+    color:mediumaquamarine
+}
+
+#PDFView a:hover {
+    color:steelblue;
+}
+
 .folio-img h4 ,
 .folio-img p ,
 .navigation li a ,

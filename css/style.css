@@ -389,6 +389,7 @@ a:hover {
 
 .folio-img {
 	position: relative;
+    max-width: 100%;
 }
 
 .overlay {
